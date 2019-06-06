@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/fluentd-elasticsearch:v2.3.1
+FROM gcr.io/fluentd-elasticsearch/fluentd:v2.5.2
 MAINTAINER zhoujianping
